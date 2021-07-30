@@ -1,0 +1,25 @@
+{
+  "name": "vogath-1",
+  "version": "1.0.0",
+  "description": "second try",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('El recurso cargo correctamente');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRIBUSKUN/vogath.git"
+  },
+  "keywords": [
+    "nothig"
+  ],
+  "author": "vogath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GRIBUSKUN/vogath/issues"
+  },
+  "homepage": "https://github.com/GRIBUSKUN/vogath#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
